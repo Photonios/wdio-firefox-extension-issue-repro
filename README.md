@@ -4,6 +4,8 @@ This reproduces an issue with `@wdio/firefox-profile-service` where its unable t
 
 The example case tries to load the the most recent version of AdBlock Plus.
 
+Repro for: https://github.com/webdriverio/webdriverio/issues/5095
+
 ## How to run
 1. `yarn install` or `npm install`
 2. `yarn test`
